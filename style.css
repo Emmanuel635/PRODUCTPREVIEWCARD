@@ -32,7 +32,7 @@ body {
 
 .product_img {
   height: 100%;
-  background-image: url(../img/image-product-desktop.jpg);
+  background-image: url(img/image-product-desktop.jpg);
   background-size: cover;
   display: block;
 }
